@@ -1,5 +1,5 @@
 # youtube-downloader-video-musica
-Implementação de uma interface para script de donload de videos e músicas do youtube baseado na biblioteca pytube.
+Implementação de uma interface para script de download de videos e músicas do youtube baseado na biblioteca pytube.
 O Script serve apenas para fins educacionais e não tem responsabilidade pelo uso de terceiros.
 
 Vide Termos de uso do Youtube: https://developers.google.com/youtube/terms/developer-policies
